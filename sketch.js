@@ -1,7 +1,7 @@
 var running, pathImg, path, runner, leftboundary, rightboundary;
 function preload(){
  
-  running=loadAnimation("runner-1.png", "runner-2.png")
+  running=loadAnimation("Runner-1.png", "Runner-2.png")
   pathImg=loadImage("path.png");
   
 }
